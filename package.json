@@ -1,0 +1,19 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "This repossitory consists of solutions for common data structures and algorithm problems",
+  "main": "binary_search.js",
+  "scripts": {
+    "test": "node *.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salbadr/dsa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salbadr/dsa/issues"
+  },
+  "homepage": "https://github.com/salbadr/dsa#readme"
+}
